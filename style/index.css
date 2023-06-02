@@ -239,7 +239,7 @@ main.news_main{
     font-weight: var(--fw-n);
 }
 
-/* footer{
+footer{
     font-family: var(--ff);
     display: grid;
     place-content: center;
@@ -252,4 +252,4 @@ footer *{
 }
 footer table{
     border-spacing: 50px 0;
-} */
+}
